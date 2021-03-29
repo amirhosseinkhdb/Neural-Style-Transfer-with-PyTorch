@@ -4,6 +4,10 @@ In this project, we have implemented **NST** using [PyTorch](https://pytorch.org
 
 Persian report of the project has also been added.
 
+Examples of **NST**:
+
+![alt text](https://raw.githubusercontent.com/amirhosseinkhdb/Neural-Style-Transfer-with-PyTorch/main/Results/nst_examples.jpg "NST Examples")
+
 References:
 * [Leon A. Gatys, Alexander S. Ecker, Matthias Bethge, "A Neural Algorithm of Artistic Style," 2016.](https://arxiv.org/abs/1508.06576)
 * [PyTorch](https://pytorch.org/)
